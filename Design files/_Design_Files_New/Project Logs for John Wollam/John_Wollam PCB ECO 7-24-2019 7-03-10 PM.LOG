@@ -1,0 +1,6 @@
+Added Component: Designator=R16(PT10LV10-103A2020-S)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=R16-1
+Added Pin To Net: NetName=VCCBL_ Pin=R16-2
+Added Pin To Net: NetName=VCCBL_ Pin=R16-3
+Added Member To Class: ClassName=U_Power_Section Member=Component R16 PT10LV10-103A2020-S

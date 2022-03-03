@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=VUSB Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=PF0_ Pin=R1-1
+Removed Pin From Net: NetName=X1_ Pin=R1-2
+Removed Pin From Net: NetName=PF1_ Pin=R2-1
+Removed Pin From Net: NetName=X2_ Pin=R2-2
+Removed Pin From Net: NetName=PF0_ Pin=U1-5
+Removed Pin From Net: NetName=PF1_ Pin=U1-6
+Removed Member From Class: ClassName=U_Controller_Section Member=D1
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=50K
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=50K
+Change component parameters: Designator = "R1"; Footprint = "Res0603"; UniqueID = "\PFTMVJBH\DIDWPEJL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Copper,Tin,Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.064inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale Thin Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PNM0603E5002BST5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "150mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=3.07, 10=2.743, 100=2.0299 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "50kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "16518"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PNM0603-50KBDKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "25ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "Res0603"; UniqueID = "\PFTMVJBH\FWGUSTJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Copper,Tin,Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.064inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale Thin Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PNM0603E5002BST5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "150mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=3.07, 10=2.743, 100=2.0299 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "50kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "16518"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PNM0603-50KBDKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "25ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Added Component: Designator=J6(BU2032SM-FH-GTR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "BU2032SM-FH-GTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pakage"; Value = "PCB, Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=PF1_ Pin=P1-1
+Added Pin To Net: NetName=PF0_ Pin=P1-3
+Added Pin To Net: NetName=PF1_ Pin=R1-1
+Added Pin To Net: NetName=VUSB Pin=R1-2
+Added Pin To Net: NetName=PF0_ Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=X1_ Pin=U1-5
+Added Pin To Net: NetName=X2_ Pin=U1-6
+Change Net Name : Old Net Name=PF0_ New Net Name=NetP1_3
+Change Net Name : Old Net Name=PF1_ New Net Name=NetP1_1
+Added Member To Class: ClassName=U_Controller_Section Member=Component D2 MBR120VLSFT3G
+Added Member To Class: ClassName=U_Connector_Section Member=Component J6 BU2032SM-FH-GTR

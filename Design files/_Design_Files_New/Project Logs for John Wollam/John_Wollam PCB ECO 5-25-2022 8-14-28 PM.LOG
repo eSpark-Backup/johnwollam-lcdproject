@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=3V3 Pin=D2-1
+Removed Pin From Net: NetName=VCC_STM Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=3V3 Pin=Q3-1
+Removed Pin From Net: NetName=VCC_STM Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Member From Class: ClassName=U_Controller_Section Member=D2
+Removed Member From Class: ClassName=U_Connector_Section Member=J6
+Removed Member From Class: ClassName=U_Controller_Section Member=Q3
+Removed Member From Class: ClassName=U_Controller_Section Member=R3
+Change Component Footprint: Designator=J1 Old Footprint=Terminal Block 10 Position New Footprint=Terminal Block 12 Pin
+Change Component Comment : Designator=J1 Old Comment=OSTTC102162 New Comment=Terminal Block 12 Pin
+Change component parameters: Designator = "J1" ("J1"); Footprint = "Terminal Block 10 Position"; UniqueID = "\THSJFCWJ\LUWKROZY" ("\THSJFCWJ\LUWKROZY")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/826/osttaxx4163-826350.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/826/osttaxx4163-826350.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Zinc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "15A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "60.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On-Shore Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "OSTTA124163"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Per Level"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.2inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Plating"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=2.95000, 10=2.23400, 25=2.07080, 50=1.86200, 100=1.81650, 250=1.58944, 500=1.45320, 1000=1.31696, 5000=1.21100 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "OSTTA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "29"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2588-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Max)"; Value = "22AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge (Min)"; Value = "14AWG"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(Solder Bridge)
+Added Pin To Net: NetName=3V3 Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=3V3 Pin=SB2-1
+Added Pin To Net: NetName=VCC_STM Pin=SB2-2
+Added Member To Class: ClassName=U_Controller_Section Member=Component SB2 Solder Bridge

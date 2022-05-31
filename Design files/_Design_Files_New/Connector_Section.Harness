@@ -1,0 +1,4 @@
+DEBUG=RESET_,SWCLK_,SWDIO_
+LCD=DB4_,DB5_,DB6_,DB7_,RS_,EN_
+MESSAGE=Message_1,Message_2,Message_3,Message_4,Message_5,Message_6,Message_7,Message_8,Message_9,Message_10
+USB=D+,D-

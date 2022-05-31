@@ -1,0 +1,2 @@
+LCD=DB4_,DB5_,DB6_,DB7_,RS_,EN_
+LCD TO MCU=#DB4_,#DB5_,#DB6_,#DB7_,#RS_,#EN_

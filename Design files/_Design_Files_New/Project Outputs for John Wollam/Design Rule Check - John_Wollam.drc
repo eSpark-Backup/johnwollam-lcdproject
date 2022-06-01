@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\JohnWollam-LCDProject\Design files\_Design_Files_New\John_Wollam.PcbDoc
+PCB File : C:\Users\XPENDER\Documents\GitHub\JohnWollam-LCDProject\Design files\_Design_Files_New\John_Wollam.PcbDoc
 Date     : 6/1/2022
-Time     : 1:52:43 PM
+Time     : 10:19:59 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

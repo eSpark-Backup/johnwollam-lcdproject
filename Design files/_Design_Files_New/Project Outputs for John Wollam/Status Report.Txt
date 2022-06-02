@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:40:27 PM On 6/2/2022
+
+Output: Bill of Materials
+Type  : BOM
 From  : Project [John Wollam.PrjPCB]
-   Generated File[John_Wollam.TXT]
-   Generated File[John_Wollam.LDP]
-   Generated File[John_Wollam.DRR]
+   Generated File[Bill of Materials-John Wollam.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 7:17:43 PM On 10/30/2020
+Finished Output Generation At 7:40:31 PM On 6/2/2022

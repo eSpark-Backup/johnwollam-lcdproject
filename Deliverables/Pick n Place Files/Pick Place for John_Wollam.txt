@@ -1,0 +1,80 @@
+Altium Designer Pick and Place Locations
+E:\JohnWollam-LCDProject\Design files\_Design_Files_New\Project Outputs for John Wollam\Pick Place for John_Wollam.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/06/22
+Time:       10:26
+Revision:   cfbe327d20774d1a2c1ac791eaf0c2092b3c6b08
+Variant:    No variations
+Units used: mil
+
+Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+TopLayer    RVT1A471M0607         730.465mil    353.000mil    180      730.465mil  353.000mil  840.701mil  353.000mil  
+TopLayer    SWPA6045S221MT        901.000mil    83.000mil     90       901.000mil  83.000mil   901.000mil  -5.583mil   
+BottomLayer Terminal_Block_12_Pin 2915.498mil   1021.000mil   90       2915.498mil 1021.000mil 2915.498mil -79.000mil  
+TopLayer    SOIC-8                393.000mil    40.000mil     180      393.000mil  40.000mil   499.299mil  -35.000mil  
+TopLayer    Res0603               285.000mil    198.000mil    270      285.000mil  198.000mil  285.000mil  228.000mil  
+TopLayer    Res0402               360.000mil    167.500mil    180      360.000mil  167.500mil  378.500mil  167.500mil  
+TopLayer    Res0603               244.886mil    -90.355mil    180      244.886mil  -90.355mil  274.885mil  -90.355mil  
+TopLayer    Res1206               1749.000mil   1971.200mil   0        1749.000mil 1971.200mil 1699.000mil 1971.200mil 
+TopLayer    SMA                   687.000mil    64.575mil     90       687.000mil  64.575mil   687.000mil  -14.165mil  
+TopLayer    CAP-_2917             145.000mil    278.772mil    90       145.000mil  152.000mil  145.000mil  152.000mil  
+TopLayer    Cap0603               571.000mil    95.000mil     270      571.000mil  95.000mil   571.000mil  125.000mil  
+TopLayer    LDL1117S33R           1301.000mil   78.000mil     0        1301.000mil 78.000mil   1210.449mil -40.173mil  
+BottomLayer SOT23-3               801.000mil    1772.000mil   180      801.000mil  1772.000mil 838.402mil  1732.630mil 
+BottomLayer SOT23-3               1389.000mil   1772.000mil   180      1389.000mil 1772.000mil 1426.402mil 1732.630mil 
+TopLayer    TC2030-IDC            3523.000mil   186.000mil    180      3523.000mil 186.000mil  3573.000mil 211.000mil  
+TopLayer    7B08070001            1295.000mil   615.000mil    0        1295.000mil 615.000mil  1222.165mil 571.693mil  
+TopLayer    10118192-0001LF       10.658mil     981.244mil    90       10.658mil   981.244mil  63.315mil   1032.425mil 
+TopLayer    Res0603               416.000mil    1919.000mil   180      416.000mil  1919.000mil 386.000mil  1919.000mil 
+BottomLayer SOT23-3               648.051mil    1772.000mil   180      648.051mil  1772.000mil 685.453mil  1732.630mil 
+BottomLayer SOT23-3               1701.000mil   1772.000mil   180      1701.000mil 1772.000mil 1738.402mil 1732.630mil 
+BottomLayer SOT23-3               1547.000mil   1772.000mil   180      1547.000mil 1772.000mil 1584.402mil 1732.630mil 
+BottomLayer SOT23-3               1234.200mil   1772.000mil   180      1234.200mil 1772.000mil 1271.602mil 1732.630mil 
+TopLayer    JTAG_HEADER           3511.000mil   1925.000mil   90       3511.000mil 1925.000mil 3536.000mil 1825.000mil 
+TopLayer    Solder_Bridge         1741.000mil   1895.200mil   180      1741.000mil 1895.200mil 1771.000mil 1895.200mil 
+TopLayer    HDR1X3                3613.000mil   1060.000mil   90       3613.000mil 960.000mil  3613.000mil 960.000mil  
+BottomLayer TL3301NF160QG/TR      676.000mil    -93.000mil    180      676.000mil  -93.000mil  855.134mil  -4.417mil   
+BottomLayer Res0603               800.000mil    1676.000mil   180      800.000mil  1676.000mil 770.000mil  1676.000mil 
+BottomLayer Res0603               648.051mil    1676.000mil   180      648.051mil  1676.000mil 618.051mil  1676.000mil 
+BottomLayer Res0603               1698.000mil   1676.000mil   180      1698.000mil 1676.000mil 1668.000mil 1676.000mil 
+TopLayer    Res0603               831.248mil    1816.000mil   180      831.248mil  1816.000mil 801.248mil  1816.000mil 
+TopLayer    Res0603               677.248mil    1821.000mil   180      677.248mil  1821.000mil 647.248mil  1821.000mil 
+TopLayer    Res0603               1729.000mil   1812.000mil   180      1729.000mil 1812.000mil 1699.000mil 1812.000mil 
+BottomLayer Res0603               1547.000mil   1676.000mil   180      1547.000mil 1676.000mil 1517.000mil 1676.000mil 
+BottomLayer Res0603               1391.000mil   1676.000mil   180      1391.000mil 1676.000mil 1361.000mil 1676.000mil 
+BottomLayer Res0603               1235.000mil   1676.000mil   180      1235.000mil 1676.000mil 1205.000mil 1676.000mil 
+TopLayer    Res0603               1577.000mil   1812.000mil   180      1577.000mil 1812.000mil 1547.000mil 1812.000mil 
+TopLayer    Res0603               1419.000mil   1818.000mil   180      1419.000mil 1818.000mil 1389.000mil 1818.000mil 
+TopLayer    Res0603               1271.000mil   1815.000mil   180      1271.000mil 1815.000mil 1241.000mil 1815.000mil 
+TopLayer    Res0603               501.000mil    1893.000mil   270      501.000mil  1893.000mil 501.000mil  1863.000mil 
+TopLayer    PPPC161LFBN-RC        1043.600mil   2156.500mil   0        1043.600mil 2156.500mil 293.600mil  2156.500mil 
+BottomLayer Res0603               332.000mil    -179.000mil   180      332.000mil  -179.000mil 302.000mil  -179.000mil 
+BottomLayer Cap0603               1340.000mil   813.000mil    90       1340.000mil 813.000mil  1340.000mil 843.000mil  
+TopLayer    STM32F070C6T6TR       1290.354mil   993.472mil    90       1290.354mil 993.472mil  1182.086mil 828.118mil  
+TopLayer    Res0603               2701.498mil   1718.000mil   0        2701.498mil 1718.000mil 2731.498mil 1718.000mil 
+TopLayer    Res0603               2701.498mil   1521.000mil   0        2701.498mil 1521.000mil 2731.498mil 1521.000mil 
+TopLayer    Res0603               2701.498mil   1320.000mil   0        2701.498mil 1320.000mil 2731.498mil 1320.000mil 
+TopLayer    Res0603               2701.498mil   1119.000mil   0        2701.498mil 1119.000mil 2731.498mil 1119.000mil 
+TopLayer    Res0603               2701.498mil   924.000mil    0        2701.498mil 924.000mil  2731.498mil 924.000mil  
+TopLayer    Res0603               2701.498mil   723.000mil    0        2701.498mil 723.000mil  2731.498mil 723.000mil  
+TopLayer    Res0603               2701.498mil   523.000mil    0        2701.498mil 523.000mil  2731.498mil 523.000mil  
+TopLayer    Res0603               2701.498mil   322.000mil    0        2701.498mil 322.000mil  2731.498mil 322.000mil  
+TopLayer    Res0603               2701.498mil   122.000mil    0        2701.498mil 122.000mil  2731.498mil 122.000mil  
+TopLayer    Res0603               2701.498mil   -76.000mil    0        2701.498mil -76.000mil  2731.498mil -76.000mil  
+BottomLayer Res0603               3613.000mil   1279.693mil   270      3613.000mil 1279.693mil 3613.000mil 1249.693mil 
+BottomLayer Res0603               3614.500mil   828.303mil    90       3614.500mil 828.303mil  3614.500mil 858.303mil  
+BottomLayer Cap0603               1390.000mil   -139.000mil   90       1390.000mil -139.000mil 1390.000mil -109.000mil 
+TopLayer    Cap0603               1301.494mil   -142.000mil   90       1301.494mil -142.000mil 1301.494mil -112.000mil 
+TopLayer    Cap0603               1391.000mil   -142.000mil   90       1391.000mil -142.000mil 1391.000mil -112.000mil 
+BottomLayer Cap0603               418.000mil    -151.583mil   270      418.000mil  -151.583mil 418.000mil  -181.583mil 
+BottomLayer Cap0603               1370.000mil   683.000mil    0        1370.000mil 683.000mil  1400.000mil 683.000mil  
+BottomLayer Cap0603               1370.000mil   628.000mil    0        1370.000mil 628.000mil  1400.000mil 628.000mil  
+BottomLayer Cap0603               1201.771mil   828.118mil    180      1201.771mil 828.118mil  1171.771mil 828.118mil  
+TopLayer    Cap0603               1461.000mil   613.000mil    270      1461.000mil 613.000mil  1461.000mil 583.000mil  
+TopLayer    Cap0603               1130.000mil   613.000mil    90       1130.000mil 613.000mil  1130.000mil 643.000mil  
+BottomLayer Cap0603               1125.000mil   913.000mil    270      1125.000mil 913.000mil  1125.000mil 883.000mil  
+BottomLayer Cap0603               1455.708mil   1082.055mil   90       1455.708mil 1082.055mil 1455.708mil 1112.055mil 
+BottomLayer Cap0603               1215.000mil   1159.606mil   180      1215.000mil 1159.606mil 1185.000mil 1159.606mil 

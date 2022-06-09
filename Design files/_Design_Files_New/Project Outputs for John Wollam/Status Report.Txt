@@ -1,12 +1,11 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [John Wollam.PrjPCB]
-   Generated File[John_Wollam.TXT]
-   Generated File[John_Wollam.LDP]
-   Generated File[John_Wollam.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [John Wollam.PrjPCB]
+   Generated File[Pick Place for John_Wollam.txt]
+   Generated File[Pick Place for John_Wollam.csv]
 
 
-Files Generated   : 3
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 7:19:12 PM On 6/8/2022
+Finished Output Generation At 10:26:09 AM On 6/9/2022

@@ -1,9 +1,0 @@
-Added Component: Designator=J6(BU2032SM-FH-GTR)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Manufacturer"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer Part No"; Value = "BU2032SM-FH-GTR"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Pakage"; Value = "PCB, Surface Mount"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "Custom"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=3V Pin=J6-1
-Added Pin To Net: NetName=GND Pin=J6-2
-Added Member To Class: ClassName=U_Connector_Section Member=Component J6 BU2032SM-FH-GTR

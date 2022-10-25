@@ -1,0 +1,160 @@
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\ODES.exe.config
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\ODES.exe
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\ODES.pdb
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\ControlzEx.dll
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\MahApps.Metro.dll
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\System.Windows.Interactivity.dll
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\ControlzEx.pdb
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\MahApps.Metro.pdb
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\MahApps.Metro.xml
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\vs projects\ODES_Framework\UI\ODES\ODES\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\Home.baml
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\LoginForm.g.cs
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\Home.g.cs
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\App.g.cs
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\ODES_MarkupCompile.cache
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\ODES_MarkupCompile.lref
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\LoginForm.baml
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\ODES.g.resources
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\ODES.Properties.Resources.resources
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\ODES.csproj.GenerateResource.Cache
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\ODES.exe
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\ODES.pdb
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\App.baml
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\BlankForm.g.cs
+E:\vs projects\ODES_Framework\UI\ODES\ODES\obj\Debug\BlankForm.baml
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\storeGuard.exe.config
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\storeGuard.exe.manifest
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\storeGuard.application
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\storeGuard.exe
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\storeGuard.pdb
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\ControlzEx.dll
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\MahApps.Metro.dll
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.dll
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\System.Windows.Interactivity.dll
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\ControlzEx.pdb
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\MahApps.Metro.pdb
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\MahApps.Metro.xml
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.pdb
+F:\Espark\#taskWollam\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.xml
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\splash.baml
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\App.baml
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\BlankForm.g.cs
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\LoginForm.g.cs
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\Home.g.cs
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\splash.g.cs
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\App.g.cs
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.cache
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.lref
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\BlankForm.baml
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\LoginForm.baml
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\Home.baml
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard.g.resources
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\ODES.Properties.Resources.resources
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\ODES.csproj.GenerateResource.Cache
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard.TrustInfo.xml
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard.exe.manifest
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard.application
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard.exe
+F:\Espark\#taskWollam\MessageApp\ODES\obj\Debug\storeGuard.pdb
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.exe.config
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.exe.manifest
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.application
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.exe
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.pdb
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\ControlzEx.dll
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.dll
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\ControlzEx.pdb
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.pdb
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.xml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\splash.baml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\App.baml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\BlankForm.g.cs
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\LoginForm.g.cs
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\Home.g.cs
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\splash.g.cs
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\App.g.cs
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.cache
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.lref
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\BlankForm.baml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\LoginForm.baml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\Home.baml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.g.resources
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.Properties.Resources.resources
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.csproj.GenerateResource.Cache
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.TrustInfo.xml
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.exe.manifest
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.application
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.exe
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.pdb
+C:\Users\faiza\Dropbox\John Wollam\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\splash.baml
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\App.baml
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\BlankForm.g.cs
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\LoginForm.g.cs
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\Home.g.cs
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\splash.g.cs
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.cache
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.lref
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.exe
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.pdb
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.exe.config
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.exe
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\storeGuard.pdb
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\ControlzEx.dll
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.dll
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\ControlzEx.pdb
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.pdb
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.xml
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\BlankForm.baml
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\LoginForm.baml
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\Home.baml
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\storeGuard.g.resources
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.Properties.Resources.resources
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SoftwareBackup\2. MessageApp\MessageApp\ODES\obj\Debug\ODES.csproj.CopyComplete
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\storeGuard.exe.config
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\storeGuard.exe
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\storeGuard.pdb
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\ControlzEx.dll
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\MahApps.Metro.dll
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\System.Windows.Interactivity.dll
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\ControlzEx.pdb
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\MahApps.Metro.pdb
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\MahApps.Metro.xml
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\ODES.csprojAssemblyReference.cache
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\splash.baml
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\App.baml
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\BlankForm.g.cs
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\LoginForm.g.cs
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\Home.g.cs
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\splash.g.cs
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\App.g.cs
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.cache
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\storeGuard_MarkupCompile.lref
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\BlankForm.baml
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\LoginForm.baml
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\Home.baml
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\storeGuard.g.resources
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\ODES.Properties.Resources.resources
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\ODES.csproj.GenerateResource.cache
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\ODES.csproj.CoreCompileInputs.cache
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\ODES.csproj.CopyComplete
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\storeGuard.exe
+D:\Github\JohnWollam-LCDProject\Software-Files\MessageApp\ODES\obj\Debug\storeGuard.pdb

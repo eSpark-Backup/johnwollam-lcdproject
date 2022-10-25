@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="storeGuard.exe" version="1.0.0.0" publicKeyToken="e7c67635f2808698" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="storeGuard" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="storeGuard.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ControlzEx.dll" size="180224">
+      <assemblyIdentity name="ControlzEx" version="3.0.2.4" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Vcrgr4UXrC14eyEKxvecmqx/WANbafqvYgqQ8z4mdvw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MahApps.Metro.dll" size="1097216">
+      <assemblyIdentity name="MahApps.Metro" version="1.6.5.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8oWdEA8KWaCyHLRItUFQBQYmBX+Y+Zlfw5rPDdDFa8A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MahApps.Metro.IconPacks.dll" size="7041536">
+      <assemblyIdentity name="MahApps.Metro.IconPacks" version="2.3.0.4" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>116Dc8ersuabv6saOeiF+E9dOHCvL828sFKDxDA6/r4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="storeGuard.exe" size="3456512">
+      <assemblyIdentity name="storeGuard" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>n4UnA/QFpsni/xVtVmP9qKLW1Kk45/ZE1vISski8IzU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Windows.Interactivity.dll" size="55904">
+      <assemblyIdentity name="System.Windows.Interactivity" version="4.5.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>k/vFnkiAr8nxNsOsCXatp/P6p8rO3OXIJLM3y8qdLr8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="storeGuard.exe.config" size="917">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fIJpXpJ4KlnMRFkGDJrekXt5CyyxuOi6z/0CQK3Cmeo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=SHABBAR\Shabbar_Official" issuerKeyHash="255c79e05f4aee8ceb98cb9b3b621c79f18b4c2d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>MQj9XYKiPk0beyGSd/CieO2lCKToiaiQuLpi8xddex4=</DigestValue></Reference></SignedInfo><SignatureValue>HRD4ggOOLosC0uSXzjvaqHAZu4LBQPWV5C1i7yg1Dph3QGF+LavX6nPTNnv9yWZIA4Wh1df/bUgyU+Y1IGHZ+OtfOML+csZRNC58GL8jvHtL8Y/vNbYgaBdgp7xJvXPow7+Adq2+3zxo4pNgO4Gq4dzTSvxNcqCsPF4yO4LguB8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>veE1X2IcRZsRYWYJvVeXPSliRWTCGSvjVfwJdiKDNDnaBR6ZETsoqou5Njc81094hz1+HeXuRyip+Y/c3vPPgIrqOjb/zj8ZNrPnKCEyla6eHhaTpN++ZsF5jW/JYkCmpEVuWc/vc8/3yz7749Hn6AzGGodYD9zEhJ1YBH52ZVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1e7b5d17f362bab890a889e8a408a5ed78a2f07792217b1b4d3ea2825dfd0831" Description="" Url=""><as:assemblyIdentity name="storeGuard.exe" version="1.0.0.0" publicKeyToken="e7c67635f2808698" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SHABBAR\Shabbar_Official</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>C7dvwZCBdhkbyBCIg0oL+21fl/vD0pf+QBuClzIANRo=</DigestValue></Reference></SignedInfo><SignatureValue>ukO3eJH/8/xq7pk70KKGHvF218i3dPiHzm+BqgSgjIRWFKF/4aAmLeEQmpQK0M/2qKYwlobG3e7QbC/JrzvZA9VejNbx1IxRh/0esyzLCBB4Ro0Pg+PL7kgGVMjWrHOGJ12X8/5iyCItbSG+edM9asxXcgakYeZcqLfrIB0mKCM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>veE1X2IcRZsRYWYJvVeXPSliRWTCGSvjVfwJdiKDNDnaBR6ZETsoqou5Njc81094hz1+HeXuRyip+Y/c3vPPgIrqOjb/zj8ZNrPnKCEyla6eHhaTpN++ZsF5jW/JYkCmpEVuWc/vc8/3yz7749Hn6AzGGodYD9zEhJ1YBH52ZVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQNK+dPfSMQJ5F3eEnd8caWDANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAAUwBIAEEAQgBCAEEAUgBcAFMAaABhAGIAYgBhAHIAXwBPAGYAZgBpAGMAaQBhAGwwHhcNMTkxMTE0MTExMjIxWhcNMjAxMTEzMTcxMjIxWjA7MTkwNwYDVQQDHjAAUwBIAEEAQgBCAEEAUgBcAFMAaABhAGIAYgBhAHIAXwBPAGYAZgBpAGMAaQBhAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL3hNV9iHEWbEWFmCb1Xlz0pYkVkwhkr41X8CXYigzQ52gUemRE7KKqLuTY3PNdPeIc9fh3l7kcoqfmP3N7zz4CK6jo2/84/GTaz5yghMpWunh4Wk6TfvmbBeY1vyWJApqRFblnP73PP98s+++PR5+gMxhqHWA/cxISdWAR+dmVRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEACXjhLxGRtuQowQDewvf3E2GjFwLHoIC0FdOtpfpOqHc5WLaKSLcgSihsrlxl3oEgZYHkN8GWSTek/bzxn069bKSu4mbrbI/tXMF0U70RhJ22IQ+kO0+0QxP6118x/D8UAHnmbRWTppJTJ87702EM+sPsaWkf6OLEkEHRGJxz9w8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,8 +1,0 @@
-Added Component: Designator=C37(RVT1A471M0607)
-Add component (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer Part no"; Value = "RVT1A471M0607"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=VBUS Pin=C37-1
-Added Pin To Net: NetName=GND Pin=C37-2
-Added Member To Class: ClassName=U_Power_Section Member=Component C37 470uF

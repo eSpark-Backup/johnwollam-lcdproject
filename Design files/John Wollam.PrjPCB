@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -23,15 +23,24 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -207,82 +216,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for John Wollam\John_Wollam.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -437,42 +370,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -541,11 +444,17 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Test Points For Assembly
 OutputName1=Test Point Report
@@ -736,6 +645,18 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
@@ -844,78 +765,6 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType18=Text Print
-OutputName18=Text Print
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType19=Text Print
-OutputName19=Text Print
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType20=Text Print
-OutputName20=Text Print
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType21=Text Print
-OutputName21=Text Print
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType22=Text Print
-OutputName22=Text Print
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType23=Text Print
-OutputName23=Text Print
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType24=Text Print
-OutputName24=Text Print
-OutputDocumentPath24=
-OutputVariantName24=
-OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType25=Text Print
-OutputName25=Text Print
-OutputDocumentPath25=
-OutputVariantName25=
-OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType26=Text Print
-OutputName26=Text Print
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType27=Text Print
-OutputName27=Text Print
-OutputDocumentPath27=
-OutputVariantName27=
-OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType28=Text Print
-OutputName28=Text Print
-OutputDocumentPath28=
-OutputVariantName28=
-OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType29=Text Print
-OutputName29=Text Print
-OutputDocumentPath29=
-OutputVariantName29=
-OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -955,6 +804,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1006,6 +860,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1135,6 +999,9 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
+Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1202,6 +1069,9 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
+Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1326,6 +1196,9 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1349,6 +1222,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1369,7 +1243,170 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=CSP-Main.IntLib
+ComponentDesignItemID0=Header 3
+ComponentSymbolReference0=Header 3
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=John_Library.IntLib
+ComponentDesignItemID1=_BSS138LT1G
+ComponentSymbolReference1=_BSS138LT1G
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=John_Library.IntLib
+ComponentDesignItemID2=10118192-0001LF
+ComponentSymbolReference2=10118192-0001LF
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=John_Library.IntLib
+ComponentDesignItemID3=1060TR
+ComponentSymbolReference3=1060TR
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=John_Library.IntLib
+ComponentDesignItemID4=7B08070001
+ComponentSymbolReference4=7B08070001
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=John_Library.IntLib
+ComponentDesignItemID5=CC0603JRNPO9BN200
+ComponentSymbolReference5=CC0603JRNPO9BN200
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=John_Library.IntLib
+ComponentDesignItemID6=CC0603KRX7R9BB103
+ComponentSymbolReference6=CC0603KRX7R9BB103
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=John_Library.IntLib
+ComponentDesignItemID7=CC0603ZRY5V9BB104
+ComponentSymbolReference7=CC0603ZRY5V9BB104
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=John_Library.IntLib
+ComponentDesignItemID8=CRCW12063R60FKEA
+ComponentSymbolReference8=CRCW12063R60FKEA
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=John_Library.IntLib
+ComponentDesignItemID9=DC-005-5A-2.5-SMT
+ComponentSymbolReference9=DC-005-5A-2.5-SMT
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=John_Library.IntLib
+ComponentDesignItemID10=DMP2045U-7
+ComponentSymbolReference10=DMP2045U-7
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=John_Library.IntLib
+ComponentDesignItemID11=GRM188R61E475KE11D
+ComponentSymbolReference11=GRM188R61E475KE11D
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=John_Library.IntLib
+ComponentDesignItemID12=JTAG HEADER
+ComponentSymbolReference12=JTAG HEADER
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=John_Library.IntLib
+ComponentDesignItemID13=LDL1117S33R
+ComponentSymbolReference13=LDL1117S33R
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=John_Library.IntLib
+ComponentDesignItemID14=MBR120VLSFT3G
+ComponentSymbolReference14=MBR120VLSFT3G
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=John_Library.IntLib
+ComponentDesignItemID15=PNM0603E5002BST5
+ComponentSymbolReference15=PNM0603E5002BST5
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=John_Library.IntLib
+ComponentDesignItemID16=PPPC161LFBN-RC
+ComponentSymbolReference16=PPPC161LFBN-RC
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=John_Library.IntLib
+ComponentDesignItemID17=RC0603FR-0710KL
+ComponentSymbolReference17=RC0603FR-0710KL
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=John_Library.IntLib
+ComponentDesignItemID18=RC0603FR-0720KL
+ComponentSymbolReference18=RC0603FR-0720KL
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=John_Library.IntLib
+ComponentDesignItemID19=RC0603FR-0756KL
+ComponentSymbolReference19=RC0603FR-0756KL
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=John_Library.IntLib
+ComponentDesignItemID20=RT0603BRD07100KL
+ComponentSymbolReference20=RT0603BRD07100KL
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=John_Library.IntLib
+ComponentDesignItemID21=Solder Bridge
+ComponentSymbolReference21=Solder Bridge
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=John_Library.IntLib
+ComponentDesignItemID22=STM32F070C6T6TR
+ComponentSymbolReference22=STM32F070C6T6TR
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=John_Library.IntLib
+ComponentDesignItemID23=TC2030-IDC
+ComponentSymbolReference23=TC2030-IDC
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=John_Library.IntLib
+ComponentDesignItemID24=Terminal Block 10 Position
+ComponentSymbolReference24=Terminal Block 10 Position
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=John_Library.IntLib
+ComponentDesignItemID25=TL3301NF160QG/TR
+ComponentSymbolReference25=TL3301NF160QG/TR
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=John_Library.IntLib
+ComponentDesignItemID26=UMK107AB7105KA-T
+ComponentSymbolReference26=UMK107AB7105KA-T
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1383,19 +1420,402 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Approvals
+ParameterUpdate0=1
+ParameterName1=Average Rectified Current
+ParameterUpdate1=1
+ParameterName2=Body Material
+ParameterUpdate2=1
+ParameterName3=Capacitance
+ParameterUpdate3=1
+ParameterName4=Case Code (Imperial)
+ParameterUpdate4=1
+ParameterName5=Case Code (Metric)
+ParameterUpdate5=1
+ParameterName6=Case/Package
+ParameterUpdate6=1
+ParameterName7=Color
+ParameterUpdate7=1
+ParameterName8=Colour
+ParameterUpdate8=1
+ParameterName9=Comment
+ParameterUpdate9=1
+ParameterName10=Component Kind
+ParameterUpdate10=1
+ParameterName11=ComponentLink10Description
+ParameterUpdate11=1
+ParameterName12=ComponentLink10URL
+ParameterUpdate12=1
+ParameterName13=ComponentLink11Description
+ParameterUpdate13=1
+ParameterName14=ComponentLink11URL
+ParameterUpdate14=1
+ParameterName15=ComponentLink12Description
+ParameterUpdate15=1
+ParameterName16=ComponentLink12URL
+ParameterUpdate16=1
+ParameterName17=ComponentLink13Description
+ParameterUpdate17=1
+ParameterName18=ComponentLink13URL
+ParameterUpdate18=1
+ParameterName19=ComponentLink14Description
+ParameterUpdate19=1
+ParameterName20=ComponentLink14URL
+ParameterUpdate20=1
+ParameterName21=ComponentLink15Description
+ParameterUpdate21=1
+ParameterName22=ComponentLink15URL
+ParameterUpdate22=1
+ParameterName23=ComponentLink1Description
+ParameterUpdate23=1
+ParameterName24=ComponentLink1URL
+ParameterUpdate24=1
+ParameterName25=ComponentLink2Description
+ParameterUpdate25=1
+ParameterName26=ComponentLink2URL
+ParameterUpdate26=1
+ParameterName27=ComponentLink3Description
+ParameterUpdate27=1
+ParameterName28=ComponentLink3URL
+ParameterUpdate28=1
+ParameterName29=ComponentLink4Description
+ParameterUpdate29=1
+ParameterName30=ComponentLink4URL
+ParameterUpdate30=1
+ParameterName31=ComponentLink5Description
+ParameterUpdate31=1
+ParameterName32=ComponentLink5URL
+ParameterUpdate32=1
+ParameterName33=ComponentLink6Description
+ParameterUpdate33=1
+ParameterName34=ComponentLink6URL
+ParameterUpdate34=1
+ParameterName35=ComponentLink7Description
+ParameterUpdate35=1
+ParameterName36=ComponentLink7URL
+ParameterUpdate36=1
+ParameterName37=ComponentLink8Description
+ParameterUpdate37=1
+ParameterName38=ComponentLink8URL
+ParameterUpdate38=1
+ParameterName39=ComponentLink9Description
+ParameterUpdate39=1
+ParameterName40=ComponentLink9URL
+ParameterUpdate40=1
+ParameterName41=Composition
+ParameterUpdate41=1
+ParameterName42=Connector Type
+ParameterUpdate42=1
+ParameterName43=Contact Material
+ParameterUpdate43=1
+ParameterName44=Contact Mating Length
+ParameterUpdate44=1
+ParameterName45=Contact Plating
+ParameterUpdate45=1
+ParameterName46=Contact Resistance
+ParameterUpdate46=1
+ParameterName47=Continuous Drain Current (ID)
+ParameterUpdate47=1
+ParameterName48=Current
+ParameterUpdate48=1
+ParameterName49=Current Rating
+ParameterUpdate49=1
+ParameterName50=Depth
+ParameterUpdate50=1
+ParameterName51=Description
+ParameterUpdate51=1
+ParameterName52=Diameter
+ParameterUpdate52=1
+ParameterName53=Dielectric
+ParameterUpdate53=1
+ParameterName54=Drain to Source Breakdown Voltage
+ParameterUpdate54=1
+ParameterName55=Drain to Source Resistance
+ParameterUpdate55=1
+ParameterName56=Dropout Voltage
+ParameterUpdate56=1
+ParameterName57=Element Configuration
+ParameterUpdate57=1
+ParameterName58=Features
+ParameterUpdate58=1
+ParameterName59=Flammability Rating
+ParameterUpdate59=1
+ParameterName60=Forward Current
+ParameterUpdate60=1
+ParameterName61=Forward Voltage
+ParameterUpdate61=1
+ParameterName62=Frequency
+ParameterUpdate62=1
+ParameterName63=Frequency Stability
+ParameterUpdate63=1
+ParameterName64=Frequency Tolerance
+ParameterUpdate64=1
+ParameterName65=Gate to Source Voltage (Vgs)
+ParameterUpdate65=1
+ParameterName66=Gender
+ParameterUpdate66=1
+ParameterName67=Halogen Free
+ParameterUpdate67=1
+ParameterName68=Height
+ParameterUpdate68=1
+ParameterName69=Housing Color
+ParameterUpdate69=1
+ParameterName70=Housing Colour
+ParameterUpdate70=1
+ParameterName71=Housing Material
+ParameterUpdate71=1
+ParameterName72=Input Capacitance
+ParameterUpdate72=1
+ParameterName73=Insulation Resistance
+ParameterUpdate73=1
+ParameterName74=Lead Free
+ParameterUpdate74=1
+ParameterName75=Lead Pitch
+ParameterUpdate75=1
+ParameterName76=Length
+ParameterUpdate76=1
+ParameterName77=Library Reference
+ParameterUpdate77=1
+ParameterName78=Load Capacitance
+ParameterUpdate78=1
+ParameterName79=Manufacturer
+ParameterUpdate79=1
+ParameterName80=Manufacturer Part N0
+ParameterUpdate80=1
+ParameterName81=Manufacturer Part No
+ParameterUpdate81=1
+ParameterName82=Manufacturer Part Number
+ParameterUpdate82=1
+ParameterName83=Material
+ParameterUpdate83=1
+ParameterName84=Max Current Rating
+ParameterUpdate84=1
+ParameterName85=Max Forward Surge Current (Ifsm)
+ParameterUpdate85=1
+ParameterName86=Max Input Voltage
+ParameterUpdate86=1
+ParameterName87=Max Operating Temperature
+ParameterUpdate87=1
+ParameterName88=Max Power Dissipation
+ParameterUpdate88=1
+ParameterName89=Max Repetitive Reverse Voltage (Vrrm)
+ParameterUpdate89=1
+ParameterName90=Max Reverse Leakage Current
+ParameterUpdate90=1
+ParameterName91=Max Reverse Voltage (DC)
+ParameterUpdate91=1
+ParameterName92=Max Supply Voltage
+ParameterUpdate92=1
+ParameterName93=Max Surge Current
+ParameterUpdate93=1
+ParameterName94=Max Voltage Rating (AC)
+ParameterUpdate94=1
+ParameterName95=Memory Size
+ParameterUpdate95=1
+ParameterName96=Military Standard
+ParameterUpdate96=1
+ParameterName97=Min Operating Temperature
+ParameterUpdate97=1
+ParameterName98=Min Output Voltage
+ParameterUpdate98=1
+ParameterName99=Min Supply Voltage
+ParameterUpdate99=1
+ParameterName100=Mount
+ParameterUpdate100=1
+ParameterName101=Nominal Vgs
+ParameterUpdate101=1
+ParameterName102=Number of Batteries
+ParameterUpdate102=1
+ParameterName103=Number of Cells
+ParameterUpdate103=1
+ParameterName104=Number of Contacts
+ParameterUpdate104=1
+ParameterName105=Number of Elements
+ParameterUpdate105=1
+ParameterName106=Number of I/Os
+ParameterUpdate106=1
+ParameterName107=Number of Levels
+ParameterUpdate107=1
+ParameterName108=Number of Pins
+ParameterUpdate108=1
+ParameterName109=Number of Ports
+ParameterUpdate109=1
+ParameterName110=Number of Positions
+ParameterUpdate110=1
+ParameterName111=Number of Positions Per Level
+ParameterUpdate111=1
+ParameterName112=Number of Regulators
+ParameterUpdate112=1
+ParameterName113=Number of Rows
+ParameterUpdate113=1
+ParameterName114=Number of Terminals
+ParameterUpdate114=1
+ParameterName115=Number of Terminations
+ParameterUpdate115=1
+ParameterName116=On-State Resistance
+ParameterUpdate116=1
+ParameterName117=Orientation
+ParameterUpdate117=1
+ParameterName118=Output Configuration
+ParameterUpdate118=1
+ParameterName119=Output Current
+ParameterUpdate119=1
+ParameterName120=Output Type
+ParameterUpdate120=1
+ParameterName121=Package
+ParameterUpdate121=1
+ParameterName122=Package Quantity
+ParameterUpdate122=1
+ParameterName123=Packaging
+ParameterUpdate123=1
+ParameterName124=Peak Non-Repetitive Surge Current
+ParameterUpdate124=1
+ParameterName125=Peak Reverse Current
+ParameterUpdate125=1
+ParameterName126=Pitch
+ParameterUpdate126=1
+ParameterName127=Plating
+ParameterUpdate127=1
+ParameterName128=Polarity
+ParameterUpdate128=1
+ParameterName129=Power Dissipation
+ParameterUpdate129=1
+ParameterName130=Power Rating
+ParameterUpdate130=1
+ParameterName131=Power Supply Rejection Ratio (PSRR)
+ParameterUpdate131=1
+ParameterName132=Pricing 1
+ParameterUpdate132=1
+ParameterName133=Quiescent Current
+ParameterUpdate133=1
+ParameterName134=Radiation Hardening
+ParameterUpdate134=1
+ParameterName135=RAM Size
+ParameterUpdate135=1
+ParameterName136=Rds On Max
+ParameterUpdate136=1
+ParameterName137=REACH SVHC
+ParameterUpdate137=1
+ParameterName138=Resistance
+ParameterUpdate138=1
+ParameterName139=Stock 1
+ParameterUpdate139=1
+ParameterName140=Supplier 1
+ParameterUpdate140=1
+ParameterName141=Supplier Part Number 1
+ParameterUpdate141=1
+ParameterName142=Temperature Coefficient
+ParameterUpdate142=1
+ParameterName143=Termination
+ParameterUpdate143=1
+ParameterName144=Thickness
+ParameterUpdate144=1
+ParameterName145=Threshold Voltage
+ParameterUpdate145=1
+ParameterName146=Tolerance
+ParameterUpdate146=1
+ParameterName147=Turn-Off Delay Time
+ParameterUpdate147=1
+ParameterName148=Turn-On Delay Time
+ParameterUpdate148=1
+ParameterName149=USB Standard
+ParameterUpdate149=1
+ParameterName150=Value
+ParameterUpdate150=1
+ParameterName151=Voltage
+ParameterUpdate151=1
+ParameterName152=Voltage Rating
+ParameterUpdate152=1
+ParameterName153=Voltage Rating (DC)
+ParameterUpdate153=1
+ParameterName154=Weight
+ParameterUpdate154=1
+ParameterName155=Width
+ParameterUpdate155=1
+ParameterName156=Wire Gauge (Max)
+ParameterUpdate156=1
+ParameterName157=Wire Gauge (Min)
+ParameterUpdate157=1
+ParameterName158=Working Voltage
+ParameterUpdate158=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=_BSS138LT1G
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=10118192-0001LF
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=1060TR
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=7B08070001
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=Cap0603
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=DC-005-5A-2.5-SMT..
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=HEADER 3
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=JTAG HEADER
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=LDL1117S33R
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=MBR120VLSFT3G
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=PPPC161LFBN-RC
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=Res0603
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=Res1206
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=Solder Bridge
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=SOT23-3
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=STM32F070C6T6TR
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=TC2030-IDC
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=Terminal Block 10 Position
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=TL3301NF160QG/TR
+ModelUpdate18=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType19=SI
+ModelName19=Connector
+ModelUpdate19=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1

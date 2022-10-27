@@ -217,7 +217,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=v2_.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -231,14 +231,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OOFVDCDV
+DocumentUniqueId=WCKAWYOL
 
 [GeneratedDocument1]
-DocumentPath=..\Documents\John Wollam.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\John Wollam.xlsx
+DocumentPath=..\..\..\Users\HP\Desktop\John Wollam.xlsx
 DItemRevisionGUID=
 
 [Configuration1]

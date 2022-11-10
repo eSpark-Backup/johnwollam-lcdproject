@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [John Wollam.PrjPCB]
+   Generated File[Pick Place for John_Wollam_V2.0.txt]
+   Generated File[Pick Place for John_Wollam_V2.0.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:52:35 AM On 10/29/2022

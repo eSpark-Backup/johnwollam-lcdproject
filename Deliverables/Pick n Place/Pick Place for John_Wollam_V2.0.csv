@@ -1,24 +1,24 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\JohnWollam-LCDProject\Design files\Project Outputs for John Wollam\Pick Place for John_Wollam_V2.0.csv
+C:\GitHub\JohnWollam-LCDProject\Design files\Project Outputs for John Wollam\Pick Place for John_Wollam_V2.0.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       29/10/22
-Time:       00:52
-Revision:   Not in VersionControl
+Date:       10/11/22
+Time:       19:09
+Revision:   3f08672a7452d3a21fb822a50d6a2c36475515f1
 Variant:    No variations
 Units used: mil
 
 "Designator","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"J1","BottomLayer","2934,500mil","1098,673mil","90","2934,500mil","212,846mil","2934,500mil","212,846mil"
 "R10","TopLayer","2745,000mil","1000,000mil","180","2745,000mil","1000,000mil","2775,000mil","1000,000mil"
 "X1","TopLayer","1734,000mil","773,500mil","0","1734,000mil","773,500mil","1659,197mil","728,224mil"
-"J1","BottomLayer","2934,500mil","1098,673mil","90","2934,500mil","212,846mil","2934,500mil","212,846mil"
 "USB1","TopLayer","10,658mil","1113,244mil","90","10,658mil","1113,244mil","63,315mil","1164,425mil"
 "U3","TopLayer","798,000mil","318,000mil","0","798,000mil","318,000mil","691,701mil","393,000mil"
 "U2","TopLayer","1748,000mil","210,000mil","0","1748,000mil","210,000mil","1657,449mil","89,921mil"
 "U1","TopLayer","1730,354mil","1155,472mil","90","1730,354mil","1155,472mil","1622,086mil","988,149mil"
-"SW1","BottomLayer","1753,437mil","35,000mil","0","1753,437mil","35,000mil","1574,303mil","-53,583mil"
+"SW1","BottomLayer","1873,437mil","35,000mil","0","1873,437mil","35,000mil","1694,303mil","-53,583mil"
 "SB1","BottomLayer","2001,000mil","2069,000mil","180","2001,000mil","2069,000mil","2031,000mil","2069,000mil"
 "R34","TopLayer","904,000mil","152,000mil","270","904,000mil","152,000mil","904,000mil","182,000mil"
 "R33","TopLayer","655,000mil","171,000mil","180","655,000mil","171,000mil","695,000mil","171,000mil"
@@ -59,18 +59,18 @@ Units used: mil
 "P1","TopLayer","3613,000mil","1225,000mil","90","3613,000mil","1125,000mil","3613,000mil","1125,000mil"
 "L1","BottomLayer","694,000mil","261,000mil","270","694,000mil","261,000mil","694,000mil","479,504mil"
 "J4","TopLayer","1043,600mil","2156,500mil","0","1043,600mil","2156,500mil","293,600mil","2156,500mil"
-"J3","TopLayer","3550,000mil","505,000mil","270","3550,000mil","605,000mil","3550,000mil","605,000mil"
+"J3","BottomLayer","34,000mil","371,000mil","270","34,000mil","471,000mil","34,000mil","471,000mil"
 "D3","TopLayer","516,000mil","313,000mil","270","516,000mil","313,000mil","516,000mil","391,740mil"
 "D2","TopLayer","194,000mil","1164,000mil","180","194,000mil","1164,000mil","239,276mil","1164,000mil"
 "D1","TopLayer","194,000mil","1097,000mil","180","194,000mil","1097,000mil","239,276mil","1097,000mil"
-"C17","BottomLayer","1229,000mil","268,976mil","90","1229,000mil","268,976mil","1229,000mil","66,416mil"
+"C17","BottomLayer","1280,000mil","269,000mil","90","1280,000mil","269,000mil","1280,000mil","66,440mil"
 "C16","TopLayer","1090,100mil","130,868mil","270","1090,100mil","257,639mil","1090,100mil","257,639mil"
 "C15","TopLayer","613,000mil","263,000mil","90","613,000mil","263,000mil","613,000mil","233,000mil"
 "C14","BottomLayer","1780,000mil","975,000mil","270","1780,000mil","975,000mil","1780,000mil","1005,000mil"
 "C13","TopLayer","1892,000mil","-25,000mil","270","1892,000mil","-25,000mil","1892,000mil","5,000mil"
 "C11","TopLayer","1747,000mil","-25,000mil","270","1747,000mil","-25,000mil","1747,000mil","5,000mil"
 "C10","TopLayer","1838,000mil","-25,000mil","270","1838,000mil","-25,000mil","1838,000mil","5,000mil"
-"C9","BottomLayer","2021,000mil","41,000mil","90","2021,000mil","41,000mil","2021,000mil","11,000mil"
+"C9","BottomLayer","2141,000mil","41,000mil","90","2141,000mil","41,000mil","2141,000mil","11,000mil"
 "C8","BottomLayer","1810,000mil","845,000mil","180","1810,000mil","845,000mil","1840,000mil","845,000mil"
 "C7","BottomLayer","1810,000mil","790,000mil","180","1810,000mil","790,000mil","1840,000mil","790,000mil"
 "C6","BottomLayer","1641,771mil","990,118mil","0","1641,771mil","990,118mil","1611,771mil","990,118mil"

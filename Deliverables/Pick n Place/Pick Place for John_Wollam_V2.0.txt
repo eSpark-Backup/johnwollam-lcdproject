@@ -4,9 +4,9 @@ C:\GitHub\JohnWollam-LCDProject\Design files\Project Outputs for John Wollam\Pic
 ========================================================================================================================
 File Design Information:
 
-Date:       10/11/22
-Time:       19:09
-Revision:   3f08672a7452d3a21fb822a50d6a2c36475515f1
+Date:       05/01/23
+Time:       16:47
+Revision:   1b50df9967fd474f5c31aed849f5673279e0a6c1
 Variant:    No variations
 Units used: mil
 
@@ -59,7 +59,7 @@ Q2         BottomLayer 1014,000mil   1830,000mil   180      1014,000mil 1830,000
 P1         TopLayer    3613,000mil   1225,000mil   90       3613,000mil 1125,000mil 3613,000mil 1125,000mil 
 L1         BottomLayer 694,000mil    261,000mil    270      694,000mil  261,000mil  694,000mil  479,504mil  
 J4         TopLayer    1043,600mil   2156,500mil   0        1043,600mil 2156,500mil 293,600mil  2156,500mil 
-J3         BottomLayer 34,000mil     371,000mil    270      34,000mil   471,000mil  34,000mil   471,000mil  
+J3         BottomLayer 102,000mil    375,000mil    90       102,000mil  375,000mil  102,000mil  275,000mil  
 D3         TopLayer    516,000mil    313,000mil    270      516,000mil  313,000mil  516,000mil  391,740mil  
 D2         TopLayer    194,000mil    1164,000mil   180      194,000mil  1164,000mil 239,276mil  1164,000mil 
 D1         TopLayer    194,000mil    1097,000mil   180      194,000mil  1097,000mil 239,276mil  1097,000mil 

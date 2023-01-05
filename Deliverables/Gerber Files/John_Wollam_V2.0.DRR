@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: John_Wollam_V2.0.PcbDoc   11/10/2022  7:05:52 PM
+NCDrill File Report For: John_Wollam_V2.0.PcbDoc   1/5/2023  4:45:13 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,11 @@ ASCII RoundHoles File : John_Wollam_V2.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             60        PTH        15.53inch (394.49mm)
+T1      12mil (0.3mm)                                             Round             60        PTH        15.46inch (392.76mm)
 T2      35mil (0.9mm)                                             Round             19        PTH        3.70inch (93.99mm)
-T3      55mil (1.397mm)                                           Round             12        PTH        7.69inch (195.20mm)
-T4      98mil (2.5mm)                                             Round             4         PTH        8.60inch (218.44mm)
+T3      55mil (1.397mm)                                           Round             10        PTH        1.77inch (45.00mm)
+T4      55mil (1.4mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T5      98mil (2.5mm)                                             Round             4         PTH        8.60inch (218.44mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              95
 
